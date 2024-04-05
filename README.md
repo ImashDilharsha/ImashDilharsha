@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImashDilharsha
 - 👀 I’m interested in UI/UX design
-- 🌱 I’m currently learning c++
+- 🌱 I’m genius in Java
 - 💞️ I’m looking to collaborate on software projects
 - 📫 Reach me - Facebook: Imash Dilharsha
 
