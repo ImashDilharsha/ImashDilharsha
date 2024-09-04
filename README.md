@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImashDilharsha
-- 👀 I’m interested in UI/UX design
-- 🌱 I’m genius in Java
-- 💞️ I’m looking to collaborate on software projects
+- 👀 I’m interested in Web development
+- 🌱 Also a genius in JavaScript
+- 💞️ And looking to collaborate on software projects
 - 📫 Reach me - Facebook: Imash Dilharsha
 
 <!---
